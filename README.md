@@ -141,7 +141,7 @@
 
 <h2 align="left" id="muame-tech">Github Stats 📊</h2>
 <details>
-  <summary>Maths and calculations on my github usages</summary>
+  <summary>Github stats and top languages.</summary>
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="muame-amr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muame-amr&show_icons=true&theme=codeSTACKr&bg_color=1F222E" height="192px"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="muame-amr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muame-amr&langs_count=8&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=1F222E&icon_color=F8D866&hide=html,css,Jupyter%20Notebook" height="192px"/></a>
