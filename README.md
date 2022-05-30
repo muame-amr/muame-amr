@@ -15,7 +15,7 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/amrnumenor-the-encoder)
 
 - 🔭 I’m currently working on improving myself
-- 🌱 I’m currently learning backend development with Quarkus
+- 🌱 I’m currently learning Spring & Terraform
 - 💬 Ask me anything on my issue [page](https://github.com/muame-amr/muame-amr/issues)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muame/)
 
